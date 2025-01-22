@@ -13,7 +13,7 @@
     
 **CAIXA - IA Generativa com Microsoft Copilot**
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/Larachi11/ebook-python-seu-novo-superpoder/blob/main/output/Python%20Seu%20Novo%20Superpoder%20-%20Um%20Guia%20para%20Mulheres%20que%20Querem%20Transformar%20Ideias%20em%20C%C3%B3digo.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -49,5 +49,6 @@ Canva：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
+
 
 por **Larissa Chidi**
