@@ -1,15 +1,17 @@
 
 
 <p align="center">
-<img src="./assets/Python-seu-novo-superpoder.png" width="400"/>
+ <a href="https://github.com/Larachi11/ebook-python-seu-novo-superpoder/blob/main/output/Python%20Seu%20Novo%20Superpoder%20-%20Um%20Guia%20para%20Mulheres%20que%20Querem%20Transformar%20Ideias%20em%20C%C3%B3digo.pdf" title="View PDF now">
+  <img src="./assets/Python-seu-novo-superpoder.png" width="200"/>
+ </a>
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO] em parceria da CAIXA e Microsoft (https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me) em parceria da CAIXA e Microsoft 
     
-#CAIXA - IA Generativa com Microsoft Copilot
+**CAIXA - IA Generativa com Microsoft Copilot**
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -19,7 +21,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Canva] (https://www.canva.com/)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -48,4 +50,4 @@ Canva：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-por #Larissa Chidi
+por **Larissa Chidi**
