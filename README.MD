@@ -30,8 +30,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de python para iniciantes, o ebook é para mulheres que estão se interessando pelo mundo da programação, me liste 5 variações de títulos                                                                                                     |
-| conteúdo | Faça um texto para ebook , com foco em python, listando os principais conteúdos com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema python para iniciantes, o ebook é para mulheres que estão se interessando agora pelo mundo da programação, me liste 5 variações de títulos                                                                                                     |
+| conteúdo | Faça um texto para ebook , com foco em python, listando os principais conteúdos com exemplos em código {REGRAS} Explique sempre de uma maneira simples deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
 Canva：
